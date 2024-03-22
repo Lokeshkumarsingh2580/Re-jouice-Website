@@ -1,7 +1,7 @@
 # Rejouice Website README
 
 ## Overview
-This HTML document represents the structure of the Rejouice website. It's a modern and visually appealing webpage showcasing the services and offerings of Rejouice, a creative agency.
+This HTML document represents the structure of the Rejouice website. It's a modern and visually appealing Responsive webpage showcasing the services and offerings of Rejouice, a creative agency.
 
 ## Sections
 1. **Loader Animation**: 
